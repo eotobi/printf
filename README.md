@@ -1,2 +1,2 @@
 # printf
-0x11. C - printf, arequirement for the alx engineering course
+0x11. C - printf, a requirement for the alx engineering course
